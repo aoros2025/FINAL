@@ -43,7 +43,7 @@ export default function Navbar() {
           <a href="/keeping-up" className="hover:underline">
             Keeping Up with CREAR
           </a>
-          <a href="/joun-us" className="hover:underline">
+          <a href="/join-us" className="hover:underline">
             Join Us
           </a>
           <a href="/contact" className="hover:underline">
