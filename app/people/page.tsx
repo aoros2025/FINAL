@@ -152,6 +152,15 @@ export default function PeoplePage() {
       bioEs:
         'Yadira (Becaria HMB 2024–2025) obtuvo una M.S.W. en Práctica Interpersonal en Salud Integrada, Salud Mental y Abuso de Sustancias y una B.S. en Biopsicología, Cognición y Neurociencia (Universidad de Michigan). Ex Gerente del Lab CASA (UM). Estudia cómo las experiencias adversas en la infancia moldean el desarrollo cerebral/conductual y cómo política, comunidad y familia se entrecruzan en el bienestar juvenil.',
     },
+     {
+      name: 'Dollar Ganu, B.A.',
+      role: 'Graduate Student Collaborator',
+      image: '/images/Dollar Ganu.jpg',
+      bioEn:
+        'Dollar is a master’s student in Marriage & Family Therapy at the University of Oregon. She is curious about how identities intersect with daily life, with prior work on belonging in classroom/social settings and on pharmacological and non-pharmacological approaches to depression and epilepsy.',
+      bioEs:
+        'Dollar es estudiante de maestría en Terapia Matrimonial y Familiar en la Universidad de Oregón. Le interesa cómo las identidades se entrelazan con la vida cotidiana; ha investigado pertenencia en contextos académicos/sociales y enfoques farmacológicos y no farmacológicos para depresión y epilepsia.',
+    },
     {
       name: 'Erin Lancaster',
       role: 'Post-Baccalaureate Researcher',
@@ -508,13 +517,7 @@ export default function PeoplePage() {
       />
 
       <Section
-        titleEn="Graduate Student Collaborators"
-        titleEs="Colaboradoras Estudiantes de Posgrado"
-        data={gradCollaborators}
-      />
-
-      <Section
-        titleEn="Post-Baccalaureate Researchers"
+        titleEn="Graduate Post-Baccalaureate Research Collaborators"
         titleEs="Investigadores Post-Bachillerato"
         data={postBaccs}
       />
