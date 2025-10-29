@@ -73,10 +73,11 @@ export default function JoinUsPage() {
             Can I list your name as my graduate mentor?
           </summary>
           <p className="mt-2">
-            Yes. When applying to Psychology Ph.D. programs at Pitt, prospective
-            students apply to work with a specific faculty member(s). There is a
-            spot on the application where you can list mentors. List Dr.
-            Medrano's name if you want her to review your application.
+             When applying to Psychology Ph.D. programs at Pitt, prospective students apply to work with a specific 
+            faculty member(s) in their research lab as their advisor/research mentor. There is a spot on the application
+            where you can list one or more mentors of interest. That's where you should list my name if you are interested 
+            in working in my lab and would like for me to review your application.  
+
           </p>
         </details>
 
@@ -85,10 +86,11 @@ export default function JoinUsPage() {
             Is funding available for admitted Ph.D. students?
           </summary>
           <p className="mt-2">
-            Yes. The department provides financial support through tuition
-            coverage, stipends, fellowships, and teaching assistantships. Info
-            on fee waivers and international student requirements is available
-            on Pitt's website.
+           The Psychology Department provides financial support to admitted students through tuition coverage
+            and a stipend. Funding for students in my lab comes from a range of sources, including research assistant
+            slots from my Pitt start-up funds and possibly in the future from grant funding, fellowships (e.g., from 
+            Pitt and the National Science Foundation), and teaching assistantships (TA) and independent teaching (Teaching 
+            Fellow or TF). 
           </p>
         </details>
 
@@ -97,10 +99,14 @@ export default function JoinUsPage() {
             What are you looking for in a prospective student?
           </summary>
           <p className="mt-2">
-            Strong applicants are passionate about our lab’s focus areas, have
-            solid academic records, and prior research experience (post-bac or
-            independent work). Bilingualism in Spanish is a plus but not
-            required.
+            Qualifications of applicants  
+Strong applicants to CREAR Lab are passionate about one or more research areas in our lab, have a strong academic record, typically have completed prior coursework in Psychology (or Social Work), and have usually gained at least one year of research experience in psychology or a related field, ideally including post-baccalaureate experience and/or independent research experience (for example, through a senior thesis, poster presentations, publication experience).  
+In reviewing applications, I will look for evidence of applicants' interest in and commitment to diverse populations, including, but not limited to, violence exposure, mental health disparities, acculturation, resilience framework, and drawing from culturally-humble and strengths-based perspectives. Because a lot of our work is international (in Mexico, Honduras, Puerto Rico, etc..) and with Spanish-speaking Latino/as in the U.S., it will be an additional benefit if an applicant is bilingual in Spanish (so please mention if you are bilingual!); however, this is not a requirement, nor would it make or break a students’ application if the applicant is otherwise qualified and aligned with the work being conducted in the lab. 
+As part of my holistic review process, I will pay close attention to structural barriers applicants may have experienced in their academic and career journeys.  In light of concerns about equity related to the GRE, I will NOT consider GRE scores in admissions cycles. 
+​ 
+Holistic review process 
+​My holistic review process includes reviewing personal statements, letters of recommendation, CVs, transcripts, and other submitted materials. I pay special attention to structural barriers and unique circumstances applicants may have experienced on their academic and career journeys (e.g., first-generation status, structural and interpersonal circumstances, minority identities and related structural disparities), which you may decide to discuss in your personal statement and/or ask your letter-writers to discuss on your behalf. 
+​​Although I am the primary person reviewing the applications that list me as a potential mentor, the ultimate decision about whom to invite for official interview visits (and final admissions decisions) is made collectively by faculty in our program.  
           </p>
         </details>
 
@@ -109,8 +115,15 @@ export default function JoinUsPage() {
             Should I email you before applying?
           </summary>
           <p className="mt-2">
-            No need to email in advance. All applications will be reviewed
-            holistically via official Pitt channels.
+           It is not necessary to email me before applying. Sometimes applicants feel they 
+            need to email faculty to express their interest in advance. For me, this definitely 
+            is not necessary. Whether or not you email me will have no bearing on your ultimate chances 
+            of admission. I will carefully review all applications that list me as a potential mentor on
+            official apps submitted through Pitt, and my holistic review process will not involve checking
+            to see if students emailed me or reviewing content sent via email. 
+            
+            You are of course welcome to email me (andrea.medrano@pitt.edu) if you have a specific question not 
+            answered on my website or Pitt's website.  
           </p>
         </details>
 
